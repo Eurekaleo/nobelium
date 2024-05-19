@@ -1,7 +1,7 @@
 const BLOG = {
-  title: 'Eurekaleo Blog',
-  author: 'Eurekaleo',
-  email: 'i@craigary.net',
+  title: 'Eureka_leo Blog',
+  author: 'Eureka_leo',
+  email: 'mluo@u.nus.edu',
   link: 'https://blog-omega-hazel-96.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -11,8 +11,8 @@ const BLOG = {
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2021, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  since: 2024, // If leave this empty, current year will be used.
+  postsPerPage: 10,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
